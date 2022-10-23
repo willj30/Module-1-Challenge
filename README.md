@@ -11,7 +11,7 @@ The website can be found at this URL: https://willj30.github.io/Module-1-Challen
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
-    ![Horiseon Web Services Screenshot](assets/images/screenshot.png)
+    ![Horiseon Web Services Screenshot](assets/images/willj30.github.io_Module-1-Challenge_.png)
     ```
 
 ## Credits
