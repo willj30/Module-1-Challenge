@@ -114,24 +114,12 @@ p {
     color: #ffffff;
 }
 
-.main-services-titles {
+.main-services h2{
    margin-bottom: 20px;
    font-size: 36px;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing img {
+.main-services img {
     max-height: 200px;
     margin-bottom: 20px;
     font-size: 36px;
