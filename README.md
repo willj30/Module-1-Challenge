@@ -10,7 +10,7 @@ The website can be found at this URL: https://willj30.github.io/Module-1-Challen
 
 Website Screenshot:
 
-    ![Horiseon Web Services Screenshot](./assets/images/willj30-Module-1-Challenge.png)
+    ![willj30-Module-1-Challenge](https://user-images.githubusercontent.com/115603153/198151585-8a7091df-f848-496b-a615-725a5a5a4bce.png)
 
 
 ## Credits
